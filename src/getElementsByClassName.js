@@ -34,7 +34,7 @@ var getElementsByClassName = function(className, node = document) {
 /*
 Psuedoecode
   Notes on function:
-  node = document in the argument
+  node = document in the parameter
     node - is an HTML element in a document or DOM tree structure representing the HTML of the website. Every HTML element is a node.
     document - or Document Object Model represents your web page,
 
